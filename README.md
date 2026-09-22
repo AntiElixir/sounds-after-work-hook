@@ -7,7 +7,7 @@ Agent 干完活自动播一段语音提醒你。 每次触发时从 `sounds/` �
 直接复制丢给你的 agent：
 
 ```
-帮我配置这个 hook，https://github.com/lorenzozanee/sounds-after-work-hook，要求适配我的系统和对应的 agent。
+帮我配置这个 hook，https://github.com/AntiElixir/sounds-after-work-hook，要求适配我的系统和对应的 agent。
 ```
 
 ## 目录结构
